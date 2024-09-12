@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0066FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Paulo+Vaz;I'm+21+years+old;I+am+a+full+stack+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ipaulovaz&show_icons=true&count_private=true&hide_border=true&title_color=0066FF&icon_color=0066FF&text_color=0066FF&bg_color=ffffff" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipaulovaz&layout=compact&hide_border=true&title_color=0066FF&text_color=0066FF&bg_color=ffffff" />
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
