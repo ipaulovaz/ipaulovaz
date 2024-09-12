@@ -28,7 +28,14 @@
      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ipaulovaz&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ipaulovaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ipaulovaz&radius=30&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
+###
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
